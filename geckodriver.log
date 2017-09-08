@@ -1,0 +1,109 @@
+1504779573449	geckodriver	INFO	geckodriver 0.18.0
+1504779573452	geckodriver	INFO	Listening on 127.0.0.1:35791
+1504779574584	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504779575329	Marionette	INFO	Enabled via --marionette
+1504779578042	Marionette	INFO	Listening on port 43923
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504779578130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504779578180	Marionette	DEBUG	loaded listener.js
+1504779578263	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504779580022	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504779580023	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504779582492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mp.weixin.qq.com/"
+1504779584946	Marionette	DEBUG	Received DOM event "pageshow" for "https://mp.weixin.qq.com/"
+1504779593599	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504779613775	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mp.weixin.qq.com/cgi-bin/bizlogin?action=validate&lang=zh_CN&account=739121527%40qq.com"
+1504779614306	Marionette	DEBUG	Received DOM event "pagehide" for "https://mp.weixin.qq.com/cgi-bin/bizlogin?action=validate&lang=zh_CN&account=739121527%40qq.com"
+1504779614306	Marionette	DEBUG	Received DOM event "unload" for "https://mp.weixin.qq.com/cgi-bin/bizlogin?action=validate&lang=zh_CN&account=739121527%40qq.com"
+1504779614627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mp.weixin.qq.com/"
+1504779615074	Marionette	DEBUG	Received DOM event "pageshow" for "https://mp.weixin.qq.com/"
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1504779699805	geckodriver	INFO	geckodriver 0.18.0
+1504779699807	geckodriver	INFO	Listening on 127.0.0.1:46641
+1504779700917	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504779701937	Marionette	INFO	Enabled via --marionette
+1504779704619	Marionette	INFO	Listening on port 42083
+1504779704854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504779704948	Marionette	DEBUG	loaded listener.js
+1504779705107	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504779708834	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504779708835	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504779711789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mp.weixin.qq.com/"
+1504779723756	Marionette	DEBUG	Received DOM event "pageshow" for "https://mp.weixin.qq.com/"
+1504779779150	geckodriver	INFO	geckodriver 0.18.0
+1504779779153	geckodriver	INFO	Listening on 127.0.0.1:40313
+1504779780282	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504779781590	Marionette	INFO	Enabled via --marionette
+1504779784739	Marionette	INFO	Listening on port 42805
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504779785377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504779785470	Marionette	DEBUG	loaded listener.js
+1504779785658	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504779787415	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504779787415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504779791653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mp.weixin.qq.com/"
+1504779797314	Marionette	DEBUG	Received DOM event "pageshow" for "https://mp.weixin.qq.com/"
+1504780374643	geckodriver	INFO	geckodriver 0.18.0
+1504780374782	geckodriver	INFO	Listening on 127.0.0.1:53421
+1504780375833	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504780384985	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 334: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 1855: TypeError: aInput.updateSearchSuggestionsNotificationImpressions is not a function
+ExceptionHandler::GenerateDump cloned child 13622
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Parent 13535] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 13535] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1504780478974	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504780496037	geckodriver	INFO	geckodriver 0.18.0
+1504780496057	geckodriver	INFO	Listening on 127.0.0.1:48313
+1504780496368	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504780499966	Marionette	INFO	Enabled via --marionette
+1504780504452	Marionette	INFO	Listening on port 46283
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504780504582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504780504762	Marionette	DEBUG	loaded listener.js
+1504780504941	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504780506706	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504780506707	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504780510541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mp.weixin.qq.com/"
+1504780519711	Marionette	DEBUG	Received DOM event "pageshow" for "https://mp.weixin.qq.com/"
+1504780529244	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504780529482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504780549512	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mp.weixin.qq.com/cgi-bin/bizlogin?action=validate&lang=zh_CN&account=739121527%40qq.com"
+1504780549984	Marionette	DEBUG	Received DOM event "pagehide" for "https://mp.weixin.qq.com/cgi-bin/bizlogin?action=validate&lang=zh_CN&account=739121527%40qq.com"
+1504780549984	Marionette	DEBUG	Received DOM event "unload" for "https://mp.weixin.qq.com/cgi-bin/bizlogin?action=validate&lang=zh_CN&account=739121527%40qq.com"
+1504780550284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mp.weixin.qq.com/"
+1504780550689	Marionette	DEBUG	Received DOM event "pageshow" for "https://mp.weixin.qq.com/"
+1504780558935	geckodriver	INFO	geckodriver 0.18.0
+1504780558938	geckodriver	INFO	Listening on 127.0.0.1:60999
+1504780560250	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504780562028	Marionette	INFO	Enabled via --marionette
+1504780567208	Marionette	INFO	Listening on port 45885
+1504780567238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504780567298	Marionette	DEBUG	loaded listener.js
+1504780567387	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504780568941	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504780568942	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504780571046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mp.weixin.qq.com/"
+1504780573306	Marionette	DEBUG	Received DOM event "pageshow" for "https://mp.weixin.qq.com/"
+1504780582002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504780582236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504780602279	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1801159089"
+1504780604206	Marionette	DEBUG	Received DOM event "pagehide" for "https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1801159089"
+1504780604206	Marionette	DEBUG	Received DOM event "unload" for "https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1801159089"
+1504780608427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1801159089"
+1504780609608	Marionette	DEBUG	Received DOM event "pageshow" for "https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1801159089"
+
+(firefox:13761): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(firefox:13761): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
